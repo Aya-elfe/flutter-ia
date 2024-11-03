@@ -1,0 +1,5 @@
+package com.example.fireia
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
